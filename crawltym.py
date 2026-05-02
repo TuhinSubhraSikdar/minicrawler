@@ -215,4 +215,4 @@ def crawl(start_url, max_pages=100):
     print("\nReport saved as seo_crawler_report.csv")
 
 
-crawl("https://tepng.com/")
+crawl("https://goldenpestsolutions.com/")
